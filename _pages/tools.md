@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Tools and Case Studies"
+title: "Tools and Datasets"
 permalink: /tools/
 author_profile: true
 ---
 
-**If you use any of the tools and datasets provided here, please cite the corresponding paper.**
+*If you use any of the tools and datasets provided here, please cite the corresponding paper.*
 
 ## Testing
 
@@ -31,7 +31,7 @@ This [tool](http://dc.exa.unrc.edu.ar/staff/rdegiovanni/ICSE2018.html) can be us
 
 [CLTSA](http://dc.exa.unrc.edu.ar/tools/cltsa) is a Labelled Transition System Analyser with Counting Fluents Support (ICSE 2015 and FSE 2017).
 
-This [tool][https://dc.exa.unrc.edu.ar/staff/rdegiovanni/case-studies/SCR_Analysis.zip] implements an automatic abstraction process to analyse SCR requirements specifications. It can be use for verification or test generation (TAP 2011 and STVR 2018).
+This [tool](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/case-studies/SCR_Analysis.zip) implements an automatic abstraction process to analyse SCR requirements specifications. It can be use for verification or test generation (TAP 2011 and STVR 2018).
 
 
 
