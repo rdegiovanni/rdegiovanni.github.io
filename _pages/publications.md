@@ -14,3 +14,71 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+## 2023
+
+Luiz Carvalho, Renzo Degiovanni, Matias Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](), in 26th International Conference on Fundamental Approaches to Software Engineering (FASE), 2023.
+
+## 2022
+
+Milos Ojdanic, Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution"](https://arxiv.org/pdf/2112.14566), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
+
+Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.  ["Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data"](https://arxiv.org/pdf/2012.11701),  in Empirical Software Engineering Journal (EMSE).
+
+Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
+
+## 2021
+
+Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://arxiv.org/pdf/2112.14151), in IEEE Transactions on Software Engineering Journal (TSE).
+
+## 2019
+
+Facundo Molina, Renzo Degiovanni, Pablo Ponzio, Germán Regis, Nazareno Aguirre, Marcelo F. Frias. ["Training Binary Classifiers as Data Structure Invariants"](https://orbilu.uni.lu/bitstream/10993/41037/1/learning-invariants.pdf), in the 41st International Conference on Software Engineering (ICSE).
+
+Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre. ["An evolutionary approach to translating operational specifications into declarative specifications"](https://orbilu.uni.lu/bitstream/10993/41038/1/learning-alloy-specs.pdf), in Journal of Science of Computer Programming (SCP).
+
+## 2018
+
+Renzo Degiovanni, Pablo F. Castro, Marcelo Arroyo, Marcelo Ruiz, Nazareno Aguirre, Marcelo F. Frias. ["Goal-conflict likelihood assessment based on model counting"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/ICSE2018.pdf), in the 40th International Conference on Software Engineering (ICSE).
+
+Renzo Degiovanni, Facundo Molina, Germán Regis, Nazareno Aguirre. ["A genetic algorithm for goal-conflict identification"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/ASE2018.pdf), in the 33rd ACM/IEEE International Conference on Automated Software Engineering (ASE).
+
+
+Renzo Degiovanni, Pablo Ponzio, Nazareno Aguirre, Marcelo F. Frias. ["Improving lazy abstraction for SCR specifications through constraint relaxation"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/STVR2018.pdf). in Software: Testing, Verification and Reliability (STVR).
+
+Facundo Molina, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo F. Frias. ["From operational to declarative specifications using a genetic algorithm"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/SBST2018.pdf). in 11th International Workshop on Search-Based Software Testing (SBST).
+
+## 2017
+
+Germán Regis, Renzo Degiovanni, Nicolás D'Ippolito, Nazareno Aguirre. ["CLTSA: labelled transition system analyser with counting fluent support"](), in the 11th Joint Meeting on Foundations of Software Engineering (ESEC/FSE) - tool paper.
+
+Luciano Zemín, Simón Gutiérrez Brida, Ariel Godio, César Cornejo, Renzo Degiovanni, Germán Regis, Nazareno Aguirre, Marcelo F. Frias. ["An Analysis of the Suitability of Test-Based Patch Acceptance Criteria"](), in the 10th IEEE/ACM International Workshop on Search-Based Software Testing (SBST).
+
+## 2016
+
+Renzo Degiovanni, Nicolás Ricci, Dalal Alrajeh, Pablo F. Castro, Nazareno Aguirre. ["Goal-Conflict Detection based on Temporal Satisfiability Checking"](), in the 
+31st IEEE/ACM International Conference on Automated Software Engineering (ASE).
+
+Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo F. Frias. ["An Evolutionary Approach to Translate Operational Specifications into Declarative Specifications"](), in the 19th Brazilian Symposium Formal Methods (SBMF).
+
+## 2015
+
+Germán Regis, Renzo Degiovanni, Nicolás D'Ippolito, Nazareno Aguirre. ["Specifying Event-Based Systems with a Counting Fluent Temporal Logic"](), in the 37th International Conference on Software Engineering (ICSE).
+
+## 2014
+
+Renzo Degiovanni, Dalal Alrajeh, Nazareno Aguirre, Sebastián Uchitel. ["Automated Goal Operationalisation based on Interpolation and SAT Solving"](), in the 36th International Conference on Software Engineering (ICSE).
+
+## 2013
+
+Gastón Scilingo, María Marta Novaira, Renzo Degiovanni, Nazareno Aguirre. ["Analyzing Behavioural Scenarios over Tabular Specifications Using Model Checking"](), in the 1st Latin American Workshop on Formal Methods (LAFM).
+
+Gastón Scilingo, María Marta Novaira, Renzo Degiovanni. ["Analizando Especificaciones Formales de Requisitos de Software usando un Model Checker Off-the-Shelf"](), in the 39th Conferencia Latinoamericana en Informática (CLEI).
+
+## 2011
+
+Renzo Degiovanni, Pablo Ponzio, Nazareno Aguirre, Marcelo Frias. ["Abstraction based Automated Test Generation from Formal Tabular Requirements Specifications"](), in the 5th International Conference Tests and Proofs (TAP).
+
+
+
