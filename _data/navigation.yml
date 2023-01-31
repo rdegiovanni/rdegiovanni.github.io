@@ -5,8 +5,8 @@ main:
   - title: "Publications"
     url: /publications/
   
-  # - title: "Tools and Case Studies"
-  #   url: /casestudies/
+  - title: "Tools and Case Studies"
+    url: /tools/
 
   # - title: "Teaching"
   #   url: /teaching/
