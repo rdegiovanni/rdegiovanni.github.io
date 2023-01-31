@@ -30,7 +30,7 @@ Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Traine
 
 ## 2021
 
-Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://arxiv.org/pdf/2112.14151), in IEEE Transactions on Software Engineering Journal (TSE).
+Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9677967), in IEEE Transactions on Software Engineering Journal (TSE).
 
 ## 2019
 
