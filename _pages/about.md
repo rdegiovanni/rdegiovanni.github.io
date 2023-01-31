@@ -27,12 +27,12 @@ Paper at TSE'22<br/>
 **==== Short Bio ====**<br/>
 
 I got my PhD in Computer Science in 2015 at the *National University of Cordoba*, Argentina, under the supervision of Prof. [Nazareno Aguirre](http://dc.exa.unrc.edu.ar/staff/naguirre/). 
-My dissertation, entitled as *Automated Techniques for the Elaboration, Validation and Verification of Requirements Specifications*, presents two automated techniques to assess and improve the quality of software requirements specifications. Briefly, these techniques are based on the manipulation of logical formulas, taking advantage of the efficiency provided by the mechanisms associated with formal analysis techniques such as SAT solving, model checking and interpolation computation.
+My dissertation, entitled as *Automated Techniques for the Elaboration, Validation and Verification of Requirements Specifications*, presents two automated techniques to assess and improve the quality of software requirements specifications, by exploiting powerful formal analysis mechanisms, such as SAT Solving and model checking. 
 
 From 2015 to 2017, I was a Teaching Assistant and a Postdoc at the Department of Computer Science at the National University of Río Cuarto, Argentina. 
 
-Since 2017, I am an *Assistant Professor* (currently on leave) at the Department on Mathematics at the National University of Río Cuarto, Argentina. 
+Since 2017, I am an *Assistant Professor* (currently on leave) at the Department of Mathematics at the National University of Río Cuarto, Argentina. 
 
 Since 2019, I am an *Assistant Researcher* (currently on leave) at the Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
 
-In 2019, I joined the Security Design and Validation research group, SERVAL, at SnT, University of Luxembourg. Since then, I have been a Postdoc and since 2022 a *Research Scientist*.
+Since 2019, I joined the Security Design and Validation research group, SERVAL, at SnT, University of Luxembourg. Since then, I have been a Postdoc and since 2022 a *Research Scientist*.
