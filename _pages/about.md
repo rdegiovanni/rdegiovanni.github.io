@@ -35,4 +35,4 @@ Since 2017, I am an *Assistant Professor* (currently on leave) at the Department
 
 Since 2019, I am an *Assistant Researcher* (currently on leave) at the Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
 
-Since 2019, I joined the Security Design and Validation research group, SERVAL, at SnT, University of Luxembourg. Since then, I have been a Postdoc and since 2022 a *Research Scientist*.
+Since 2019, I joined the Security Design and Validation research group, SERVAL, at SnT University of Luxembourg. Since then, I have been a Postdoc and since 2022 a *Research Scientist*.

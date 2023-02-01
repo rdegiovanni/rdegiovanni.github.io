@@ -40,9 +40,9 @@ Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro
 
 ## 2018
 
-Renzo Degiovanni, Pablo F. Castro, Marcelo Arroyo, Marcelo Ruiz, Nazareno Aguirre, Marcelo F. Frias. ["Goal-conflict likelihood assessment based on model counting"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/ICSE2018.pdf), in the 40th International Conference on Software Engineering (ICSE).
+Renzo Degiovanni, Pablo F. Castro, Marcelo Arroyo, Marcelo Ruiz, Nazareno Aguirre, Marcelo F. Frias. ["Goal-conflict likelihood assessment based on model counting"](files/ICSE2018.pdf), in the 40th International Conference on Software Engineering (ICSE).
 
-Renzo Degiovanni, Facundo Molina, Germán Regis, Nazareno Aguirre. ["A genetic algorithm for goal-conflict identification"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/ASE2018.pdf), in the 33rd ACM/IEEE International Conference on Automated Software Engineering (ASE).
+Renzo Degiovanni, Facundo Molina, Germán Regis, Nazareno Aguirre. ["A genetic algorithm for goal-conflict identification"](files/ASE2018.pdf), in the 33rd ACM/IEEE International Conference on Automated Software Engineering (ASE).
 
 
 Renzo Degiovanni, Pablo Ponzio, Nazareno Aguirre, Marcelo F. Frias. ["Improving lazy abstraction for SCR specifications through constraint relaxation"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/STVR2018.pdf). in Software: Testing, Verification and Reliability (STVR).

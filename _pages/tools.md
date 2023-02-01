@@ -15,7 +15,7 @@ author_profile: true
 
 [Trovon](https://github.com/garghub/TROVON) is a vulnerability prediction technique that learns from known vulnerable components rather than from vulnerable and non-vulnerable components, as typically performed (EMSE 2022). 
 
-Dataset of [mutants relevant during code evolution](https://mutationtesting-user.github.io/evolve-mutation.github.io/) used in our exploratory study (TOSEM 2022).
+[Commit-relevant mutants:](https://mutationtesting-user.github.io/evolve-mutation.github.io/) dataset employed used in our exploratory study (TOSEM 2022).
 
 ## Requirements Analysis
 
