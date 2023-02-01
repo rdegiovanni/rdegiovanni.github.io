@@ -45,40 +45,40 @@ Renzo Degiovanni, Pablo F. Castro, Marcelo Arroyo, Marcelo Ruiz, Nazareno Aguirr
 Renzo Degiovanni, Facundo Molina, Germán Regis, Nazareno Aguirre. ["A genetic algorithm for goal-conflict identification"](files/ASE2018.pdf), in the 33rd ACM/IEEE International Conference on Automated Software Engineering (ASE).
 
 
-Renzo Degiovanni, Pablo Ponzio, Nazareno Aguirre, Marcelo F. Frias. ["Improving lazy abstraction for SCR specifications through constraint relaxation"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/STVR2018.pdf). in Software: Testing, Verification and Reliability (STVR).
+Renzo Degiovanni, Pablo Ponzio, Nazareno Aguirre, Marcelo F. Frias. ["Improving lazy abstraction for SCR specifications through constraint relaxation"](files/STVR2018.pdf). in Software: Testing, Verification and Reliability (STVR).
 
-Facundo Molina, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo F. Frias. ["From operational to declarative specifications using a genetic algorithm"](https://dc.exa.unrc.edu.ar/staff/rdegiovanni/files/SBST2018.pdf). in 11th International Workshop on Search-Based Software Testing (SBST).
+Facundo Molina, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo F. Frias. ["From operational to declarative specifications using a genetic algorithm"](files/SBST2018.pdf). in 11th International Workshop on Search-Based Software Testing (SBST).
 
 ## 2017
 
-Germán Regis, Renzo Degiovanni, Nicolás D'Ippolito, Nazareno Aguirre. ["CLTSA: labelled transition system analyser with counting fluent support"](), in the 11th Joint Meeting on Foundations of Software Engineering (ESEC/FSE) - tool paper.
+Germán Regis, Renzo Degiovanni, Nicolás D'Ippolito, Nazareno Aguirre. ["CLTSA: labelled transition system analyser with counting fluent support"](files/CLTSATool.pdf), in the 11th Joint Meeting on Foundations of Software Engineering (ESEC/FSE) - tool paper.
 
-Luciano Zemín, Simón Gutiérrez Brida, Ariel Godio, César Cornejo, Renzo Degiovanni, Germán Regis, Nazareno Aguirre, Marcelo F. Frias. ["An Analysis of the Suitability of Test-Based Patch Acceptance Criteria"](), in the 10th IEEE/ACM International Workshop on Search-Based Software Testing (SBST).
+Luciano Zemín, Simón Gutiérrez Brida, Ariel Godio, César Cornejo, Renzo Degiovanni, Germán Regis, Nazareno Aguirre, Marcelo F. Frias. ["An Analysis of the Suitability of Test-Based Patch Acceptance Criteria"](files/SBST2017.pdf), in the 10th IEEE/ACM International Workshop on Search-Based Software Testing (SBST).
 
 ## 2016
 
-Renzo Degiovanni, Nicolás Ricci, Dalal Alrajeh, Pablo F. Castro, Nazareno Aguirre. ["Goal-Conflict Detection based on Temporal Satisfiability Checking"](), in the 
+Renzo Degiovanni, Nicolás Ricci, Dalal Alrajeh, Pablo F. Castro, Nazareno Aguirre. ["Goal-Conflict Detection based on Temporal Satisfiability Checking"](files/ASE2016.pdf), in the 
 31st IEEE/ACM International Conference on Automated Software Engineering (ASE).
 
-Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo F. Frias. ["An Evolutionary Approach to Translate Operational Specifications into Declarative Specifications"](), in the 19th Brazilian Symposium Formal Methods (SBMF).
+Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo F. Frias. ["An Evolutionary Approach to Translate Operational Specifications into Declarative Specifications"](files/SBMF2016.pdf), in the 19th Brazilian Symposium Formal Methods (SBMF).
 
 ## 2015
 
-Germán Regis, Renzo Degiovanni, Nicolás D'Ippolito, Nazareno Aguirre. ["Specifying Event-Based Systems with a Counting Fluent Temporal Logic"](), in the 37th International Conference on Software Engineering (ICSE).
+Germán Regis, Renzo Degiovanni, Nicolás D'Ippolito, Nazareno Aguirre. ["Specifying Event-Based Systems with a Counting Fluent Temporal Logic"](files/ICSE2015.pdf), in the 37th International Conference on Software Engineering (ICSE).
 
 ## 2014
 
-Renzo Degiovanni, Dalal Alrajeh, Nazareno Aguirre, Sebastián Uchitel. ["Automated Goal Operationalisation based on Interpolation and SAT Solving"](), in the 36th International Conference on Software Engineering (ICSE).
+Renzo Degiovanni, Dalal Alrajeh, Nazareno Aguirre, Sebastián Uchitel. ["Automated Goal Operationalisation based on Interpolation and SAT Solving"](files/ICSE2014.pdf), in the 36th International Conference on Software Engineering (ICSE).
 
 ## 2013
 
-Gastón Scilingo, María Marta Novaira, Renzo Degiovanni, Nazareno Aguirre. ["Analyzing Behavioural Scenarios over Tabular Specifications Using Model Checking"](), in the 1st Latin American Workshop on Formal Methods (LAFM).
+Gastón Scilingo, María Marta Novaira, Renzo Degiovanni, Nazareno Aguirre. ["Analyzing Behavioural Scenarios over Tabular Specifications Using Model Checking"](files/LAFM2013.pdf), in the 1st Latin American Workshop on Formal Methods (LAFM).
 
-Gastón Scilingo, María Marta Novaira, Renzo Degiovanni. ["Analizando Especificaciones Formales de Requisitos de Software usando un Model Checker Off-the-Shelf"](), in the 39th Conferencia Latinoamericana en Informática (CLEI).
+Gastón Scilingo, María Marta Novaira, Renzo Degiovanni. ["Analizando Especificaciones Formales de Requisitos de Software usando un Model Checker Off-the-Shelf"](files/CLEI2013.pdf), in the 39th Conferencia Latinoamericana en Informática (CLEI).
 
 ## 2011
 
-Renzo Degiovanni, Pablo Ponzio, Nazareno Aguirre, Marcelo Frias. ["Abstraction based Automated Test Generation from Formal Tabular Requirements Specifications"](), in the 5th International Conference Tests and Proofs (TAP).
+Renzo Degiovanni, Pablo Ponzio, Nazareno Aguirre, Marcelo Frias. ["Abstraction based Automated Test Generation from Formal Tabular Requirements Specifications"](files/TAP2011.pdf), in the 5th International Conference Tests and Proofs (TAP).
 
 
 
