@@ -20,7 +20,7 @@ Co-Chair of the 18th Wokshop of Mutation Analysis (["Mutation"](https://conf.res
 Paper at FASE'23, Paris, France.<br/>
 Paper at EMSE'22 -- JF at ICSE 2023, Melbourne, Australia.<br/>
 Paper at TOSEM'22 -- JF at ESEC/FSE 2022, Singapure.<br/>
-Paper at TSE'22 -- JF at ASE 2022, Michiga,, USA.<br/>
+Paper at TSE'22 -- JF at ASE 2022, Michigan, USA.<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
