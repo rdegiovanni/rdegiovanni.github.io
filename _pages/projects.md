@@ -23,19 +23,19 @@ Duration: 3 years: from 01-07-2020 to 30-06-2023.
 
 
 ## Risk Analysis of Software Requirements Specifications - PICT GRF 2017-1979 
-I was the PI of this project, granted for recently formed research groups. It was funded by the Argentinian Agency of Scientific and Technological Promotion. 
+I was the PI of this project, granted to recently formed research groups. It was funded by the Argentinian Agency of Scientific and Technological Promotion. 
 
 Duration: 3 years: from 01-05-2019 to 30-10-2022.
 
 
 ## Goal-conflict Analysis of Software Requirements Specifications - GRFT 2018
-I was the PI of this project, granted for recently formed research groups. It was funded by the Ministry of Science and Technology of the Province of Cordoba, Argentina.
+I was the PI of this project, granted to recently formed research groups. It was funded by the Ministry of Science and Technology of the Province of Cordoba, Argentina.
 
 Duration: 1 year: from 01-01-2018 to 31-12-2018.
 
 
 ## Automated Analysis during the Early Phase of the Requirements Engineering Process - PICT 2015-2088
-I was the PI of this project, granted for ypung researchers. It was funded by the financed by the Argentinian Agency of Scientific and Technological Promotion. 
+I was the PI of this project, granted to young researchers. It was funded by the financed by the Argentinian Agency of Scientific and Technological Promotion. 
 
 Duration: 2 years: from 01-05-2016 to 30-04-2018.
 
