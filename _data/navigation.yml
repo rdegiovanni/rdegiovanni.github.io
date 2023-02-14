@@ -8,6 +8,12 @@ main:
   - title: "Tools and Datasets"
     url: /tools/
 
+  - title: "Funded Projects"
+    url: /projects/
+
+  - title: "Students"
+    url: /students/
+
   # - title: "Teaching"
   #   url: /teaching/
     
