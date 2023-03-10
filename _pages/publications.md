@@ -17,12 +17,14 @@ author_profile: true
 
 
 ## 2023
+Milos Ojdanic, Aayush Garg, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["On Comparing Mutation Testing Tools through Learning-based Mutant Selection"](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
 
-Luiz Carvalho, Renzo Degiovanni, Matias Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](), in 26th International Conference on Fundamental Approaches to Software Engineering (FASE), 2023.
+
+Luiz Carvalho, Renzo Degiovanni, Matias Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. ["ACoRe: Automated Goal-Conflict Resolution"](https://arxiv.org/pdf/2303.05213.pdf), in the 26th International Conference on Fundamental Approaches to Software Engineering (FASE), 2023.
 
 ## 2022
 
-Milos Ojdanic, Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution"](https://dl.acm.org/doi/pdf/10.1145/3530786), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
+Milos Ojdanic, Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution"](https://dl.acm.org/doi/pdf/10.1145/3530786), in the ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
 
 Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.  ["Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data"](https://link.springer.com/article/10.1007/s10664-022-10197-4),  in Empirical Software Engineering Journal (EMSE).
 
@@ -30,7 +32,7 @@ Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Traine
 
 ## 2021
 
-Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9677967), in IEEE Transactions on Software Engineering Journal (TSE).
+Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9677967), in the IEEE Transactions on Software Engineering Journal (TSE).
 
 ## 2019
 
