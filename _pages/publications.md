@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2023
+Matias Brizzio, Renzo Degiovanni, Matias Brizzio, Maxime Cordy, Nazareno Aguirre, Mike Papadakis, Cesar Sanchez. ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting"](https://arxiv.org/abs/2105.12595), in the The Genetic and Evolutionary Computation Conference (GECCO), 2023.
+
 
 ## 2023
 Milos Ojdanic, Aayush Garg, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["On Comparing Mutation Testing Tools through Learning-based Mutant Selection"](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.

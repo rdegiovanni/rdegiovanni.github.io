@@ -17,11 +17,11 @@ My research interests lie in the area of Software Engineering with particular fo
 **==== Recent News ====**<br/>
 Co-Chair of the 18th Wokshop of Mutation Analysis (["Mutation"](https://conf.researchr.org/home/icst-2023/mutation-2023)), Apr 16th 2023, Dublin, Ireland.<br/>
 <br/>
+Paper at GECCO'23, Lisbon, Portugal.<br/>
 Paper at AST'23, Melbourne, Australia.<br/>
 Paper at FASE'23, Paris, France.<br/>
 Paper at EMSE'22 -- JF at ICSE 2023, Melbourne, Australia.<br/>
-Paper at TOSEM'22 -- JF at ESEC/FSE 2022, Singapure.<br/>
-Paper at TSE'21 -- JF at ASE 2022, Michigan, USA.<br/>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
