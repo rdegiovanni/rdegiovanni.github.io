@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## 2023
-Matias Brizzio, Renzo Degiovanni, Matias Brizzio, Maxime Cordy, Nazareno Aguirre, Mike Papadakis, Cesar Sanchez. ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting"](https://arxiv.org/abs/2105.12595), in the The Genetic and Evolutionary Computation Conference (GECCO), 2023.
+Matias Brizzio, Maxime Cordy, Mike Papadakis, Cesar Sanchez, Nazareno Aguirre, Renzo Degiovanni. ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting"](https://arxiv.org/abs/2105.12595), in the The Genetic and Evolutionary Computation Conference (GECCO), 2023.
 
 
 ## 2023
