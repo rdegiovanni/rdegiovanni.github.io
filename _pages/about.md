@@ -15,8 +15,10 @@ My research interests lie in the area of Software Engineering with particular fo
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **==== Recent News ====**<br/>
+PC in the Research and NIER Tracks at the IEEE/ACM Automated Software Engineering (ASE 2023) Conference, Luxembourg.<br/>
 Co-Chair of the 18th Wokshop of Mutation Analysis (["Mutation"](https://conf.researchr.org/home/icst-2023/mutation-2023)), Apr 16th 2023, Dublin, Ireland.<br/>
 <br/>
+Paper at TSE'23.<br/>
 Paper at GECCO'23, Lisbon, Portugal.<br/>
 Paper at AST'23, Melbourne, Australia.<br/>
 Paper at FASE'23, Paris, France.<br/>

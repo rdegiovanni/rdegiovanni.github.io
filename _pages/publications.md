@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2023
+Milos Ojdanic, Aayush Garg, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Syntactic Vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies"](), in the IEEE Transactions on Software Engineering Journal (TSE).
+
 Matias Brizzio, Maxime Cordy, Mike Papadakis, Cesar Sanchez, Nazareno Aguirre, Renzo Degiovanni. ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting"](https://arxiv.org/abs/2105.12595), in the The Genetic and Evolutionary Computation Conference (GECCO), 2023.
 
 
