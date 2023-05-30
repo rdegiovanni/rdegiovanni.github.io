@@ -9,7 +9,7 @@ author_profile: true
 
 ## Testing
 
-[μBERT](https://github.com/rdegiovanni/mBERT) is a mutation testing tool that uses CodeBERT, a pre-trained language model, to generate mutants (Mutation 2023). 
+[μBERT](https://github.com/rdegiovanni/mBERT) is a mutation testing tool that uses CodeBERT, a pre-trained language model, to generate mutants (Mutation 2022). 
 
 [Cerebro](https://github.com/garghub/Cerebro) is a machine learning approach that statically selects subsuming mutants, i.e., the set of mutants that resides on the top of the subsumption hierarchy, based on the mutants' surrounding code context (TSE 2021). 
 
