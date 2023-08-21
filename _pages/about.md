@@ -26,10 +26,10 @@ Paper at FASE'23, Paris, France.<br/>
 
 **==== Recent Services ====**<br/>
 
-PC at the Research Track of the IEEE International Conference on Software Testing (ICST 2023), Canada.<br/>
-PC in the Research and NIER Tracks at the IEEE/ACM Automated Software Engineering (ASE 2023) Conference, Luxembourg.<br/>
+PC at the Research Track of the IEEE International Conference on Software Testing (ICST 2024), Canada.<br/>
 PC at the Software Verification and Testing Track (SVT) of the 39th Annual ACM Symposium on Applied Computing (SAC 2024), Avila, Spain.<br/>
-PC at the 1st IEEE International Workshop on Reliable and Secure AI for Software Engineering (ReSAISE 2024), co-located with ISSRE, Florence, Italy.<br/>
+PC in the Research and NIER Tracks at the IEEE/ACM Automated Software Engineering (ASE 2023) Conference, Luxembourg.<br/>
+PC at the 1st IEEE International Workshop on Reliable and Secure AI for Software Engineering (ReSAISE 2023), co-located with ISSRE, Florence, Italy.<br/>
 
 <br/>
 Workshops Co-chair of the European joint conferences on Theory and Practice of Software
