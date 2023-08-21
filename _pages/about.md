@@ -16,16 +16,17 @@ My research interests lie mainly in the areas of software analysis and software 
 
 **==== Recent Publications ====**<br/>
 
+Paper at ISSRE'23, Florece, Italy.<br/>
 Paper at TSE'23.<br/>
 Paper at GECCO'23, Lisbon, Portugal.<br/>
 Paper at AST'23, Melbourne, Australia.<br/>
 Paper at FASE'23, Paris, France.<br/>
-Paper at EMSE'22 -- JF at ICSE 2023, Melbourne, Australia.<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **==== Recent Services ====**<br/>
 
+PC at the Research Track of the IEEE International Conference on Software Testing (ICST 2023), Canada.<br/>
 PC in the Research and NIER Tracks at the IEEE/ACM Automated Software Engineering (ASE 2023) Conference, Luxembourg.<br/>
 PC at the Software Verification and Testing Track (SVT) of the 39th Annual ACM Symposium on Applied Computing (SAC 2024), Avila, Spain.<br/>
 PC at the 1st IEEE International Workshop on Reliable and Secure AI for Software Engineering (ReSAISE 2024), co-located with ISSRE, Florence, Italy.<br/>

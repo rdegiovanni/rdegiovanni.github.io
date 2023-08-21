@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2023
+Aayush Garg, Renzo Degiovanni, Facundo Molina, Maxime Cordy, Nazareno Aguirre, Mike Papadakis and Yves Le Traon. ["Enabling Efficient Assertion Inference"](files/ISSRE23.pdf), in the 34th IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023.
+
 Milos Ojdanic, Aayush Garg, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Syntactic Vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies"](https://ieeexplore.ieee.org/document/10136793), in the IEEE Transactions on Software Engineering Journal (TSE).
 
 Matias Brizzio, Maxime Cordy, Mike Papadakis, Cesar Sanchez, Nazareno Aguirre, Renzo Degiovanni. ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting"](https://dl.acm.org/doi/10.1145/3583131.3590454), in the The Genetic and Evolutionary Computation Conference (GECCO), 2023.
