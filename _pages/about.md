@@ -16,6 +16,7 @@ My research interests lie mainly in the areas of software analysis and software 
 
 **==== Recent Publications ====**<br/>
 
+Paper at ICST 2024, Totonto, Canada.<br/>
 Paper at ISSRE'23, Florece, Italy.<br/>
 Paper at TSE'23.<br/>
 Paper at GECCO'23, Lisbon, Portugal.<br/>
@@ -32,10 +33,8 @@ PC in the Research and NIER Tracks at the IEEE/ACM Automated Software Engineerin
 PC at the 1st IEEE International Workshop on Reliable and Secure AI for Software Engineering (ReSAISE 2023), co-located with ISSRE, Florence, Italy.<br/>
 
 <br/>
-Workshops Co-chair of the European joint conferences on Theory and Practice of Software
-(ETAPS 2024), Luxembourg City, Luxembourg<br/>
-Co-Chair of the 18th Wokshop of Mutation Analysis (["Mutation"](https://conf.researchr.org/home/icst-2023/mutation-2023)), Apr 16th 2023, Dublin, Ireland.<br/>
-
+Co-Chair of the 19th Wokshop of Mutation Analysis (["Mutation"](https://conf.researchr.org/home/icst-2024/mutation-2024)), May 28th 2024, Toronto, Canada.<br/>
+Workshops Co-chair of the European joint conferences on Theory and Practice of Software (ETAPS 2024), Luxembourg City, Luxembourg<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 

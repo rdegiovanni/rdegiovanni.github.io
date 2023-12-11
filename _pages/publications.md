@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2024
+Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset"](), in the 17th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2024.
+
 ## 2023
 Aayush Garg, Renzo Degiovanni, Facundo Molina, Maxime Cordy, Nazareno Aguirre, Mike Papadakis and Yves Le Traon. ["Enabling Efficient Assertion Inference"](files/ISSRE23.pdf), in the 34th IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023.
 
