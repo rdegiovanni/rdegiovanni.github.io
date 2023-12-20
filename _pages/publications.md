@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2024
+Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. ["SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions"](), in the 46th International Conference on Software Engineering (ICSE), 2024.
+
 Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset"](), in the 17th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2024.
 
 ## 2023
