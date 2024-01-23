@@ -15,11 +15,9 @@ My research interests lie mainly in the areas of software analysis and software 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **==== Recent Publications ====**<br/>
-
+Paper at FSE 2024, Porto de Galinhas, Brazil.<br/>
 Paper at ICSE 2024, Lisbon, Canada.<br/>
 Paper at ICST 2024, Totonto, Canada.<br/>
-Paper at ISSRE'23, Florece, Italy.<br/>
-Paper at TSE'23. JF at ICSE 2024.<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 

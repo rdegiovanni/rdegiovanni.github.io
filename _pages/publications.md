@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %}
 
 ## 2024
+
+Agustin Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre and Marcelo Frias. ["Abstraction-Aware Inference of Metamorphic Relations"](), in the ACM International Conference on the Foundations of Software Engineering (FSE), 2024.
+
 Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. ["SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions"](files/ICSE2024.pdf), in the 46th International Conference on Software Engineering (ICSE), 2024.
 
 Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset"](files/ICST2024.pdf), in the 17th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2024.
@@ -37,7 +40,7 @@ Luiz Carvalho, Renzo Degiovanni, Matias Brizzio, Maxime Cordy, Nazareno Aguirre,
 
 Milos Ojdanic, Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution"](https://dl.acm.org/doi/pdf/10.1145/3530786), in the ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
 
-Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.  ["Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data"](https://link.springer.com/article/10.1007/s10664-022-10197-4),  in Empirical Software Engineering Journal (EMSE).
+Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.  ["Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data"](https://link.springer.com/article/10.1007/s10664-022-10197-4), in Empirical Software Engineering Journal (EMSE).
 
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
 
