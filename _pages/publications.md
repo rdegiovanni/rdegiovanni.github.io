@@ -17,7 +17,7 @@ author_profile: true
 
 ## 2024
 
-Agustin Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre and Marcelo Frias. ["Abstraction-Aware Inference of Metamorphic Relations"](), in the ACM International Conference on the Foundations of Software Engineering (FSE), 2024.
+Agustin Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre and Marcelo Frias. ["Abstraction-Aware Inference of Metamorphic Relations"](files/FSE2024.pdf), in the ACM International Conference on the Foundations of Software Engineering (FSE), 2024.
 
 Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. ["SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions"](files/ICSE2024.pdf), in the 46th International Conference on Software Engineering (ICSE), 2024.
 
