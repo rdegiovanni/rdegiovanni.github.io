@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Research Scientist at the [SnT](https://wwwfr.uni.lu/snt), University of Luxembourg. 
+I’m a Senior R&T Associate at the Luxembourg Institute of Science and Technology (LIST). 
 
 My research interests lie mainly in the areas of software analysis and software engineering, with a focus on the interplay between formal methods, software testing and machine learning.
 
@@ -41,8 +41,10 @@ My dissertation, entitled as *Automated Techniques for the Elaboration, Validati
 
 From 2015 to 2017, I was a Teaching Assistant and a Postdoc at the Department of Computer Science at the National University of Río Cuarto, Argentina. 
 
-Since 2017, I am an *Assistant Professor* (currently on leave) at the Department of Mathematics at the National University of Río Cuarto, Argentina. 
+From 2017 to 2019, I was an *Assistant Professor* at the Department of Mathematics at the National University of Río Cuarto, Argentina. 
 
 Since 2019, I am an *Assistant Researcher* (currently on leave) at the Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
 
-Since 2019, I joined the Security Design and Validation research group, SERVAL, at SnT University of Luxembourg. Since then, I have been a Postdoc and since 2022 a *Research Scientist*.
+In 2019, I joined the Security Design and Validation research group, SERVAL, at SnT University of Luxembourg. From 2019 to 2022 I was a Postdoc and from 2022 to 2024 a *Research Scientist*.
+
+In 2024, I joined as a *Senior R&T Associate* to the Software Engineering RDI Unit research group, leaded by Prof. Jordi Cabot, at the Luxembourg Institute of Science and Technology (LIST). 

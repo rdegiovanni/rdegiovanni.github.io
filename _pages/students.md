@@ -8,6 +8,8 @@ author_profile: true
 
 ## PhD Students 
 
+Michael Konstantinou: PhD Co-Advisor. University of Luxembourg (October 2023 - Present).
+
 Matias Brizio: PhD Co-Advisor. IMDEA Software Institute, Spain (October 2021 - Present).
 
 Luiz Carvalho: PhD Co-Advisor. University of Luxembourg (February 2021 - Present).
@@ -43,4 +45,8 @@ Cristian Tardivo: Bachelor Advisor. Universidad Nacional de Rio Cuarto, Argentin
 
 Facundo Molina: Postdoc Collaborator. IMDEA Software Institute, Spain (2022 - Present).
 
+Milos Ojdanic: Postdoc Collaborator. University of Luxembourg (2023 - 2024).
 
+Garg Aayush: Postdoc Collaborator. University of Luxembourg (2023 - 2024).
+
+Ahmed Khanfir: Postdoc Collaborator. University of Luxembourg (2023 - 2024).
