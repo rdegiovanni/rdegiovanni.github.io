@@ -16,17 +16,17 @@ My research interests lie mainly in the areas of software analysis and software 
 
 **==== Recent Publications ====**<br/>
 Paper at FSE 2024, Porto de Galinhas, Brazil.<br/>
-Paper at ICSE 2024, Lisbon, Canada.<br/>
+Paper at ICSE 2024, Lisbon, Portugal.<br/>
 Paper at ICST 2024, Totonto, Canada.<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **==== Recent Services ====**<br/>
 
+PC at the Workshops Track of the 47th IEEE/ACM International Conference on Software Engineering Conference (ICSE 2024), Ottawa, Canada.<br/>
+PC at the NIER Track of the IEEE/ACM Automated Software Engineering (ASE 2024) Conference, Sacramento, California, USA.<br/>
 PC at the Research Track of the IEEE International Conference on Software Testing (ICST 2024), Canada.<br/>
-PC at the Software Verification and Testing Track (SVT) of the 39th Annual ACM Symposium on Applied Computing (SAC 2024), Avila, Spain.<br/>
 PC in the Research and NIER Tracks at the IEEE/ACM Automated Software Engineering (ASE 2023) Conference, Luxembourg.<br/>
-PC at the 1st IEEE International Workshop on Reliable and Secure AI for Software Engineering (ReSAISE 2023), co-located with ISSRE, Florence, Italy.<br/>
 
 <br/>
 Co-Chair of the 19th Wokshop of Mutation Analysis (["Mutation"](https://conf.researchr.org/home/icst-2024/mutation-2024)), May 28th 2024, Toronto, Canada.<br/>
