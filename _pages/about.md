@@ -23,7 +23,7 @@ Paper at ICST 2024, Totonto, Canada.<br/>
 
 **==== Recent Services ====**<br/>
 
-PC at the Workshops Track of the 47th IEEE/ACM International Conference on Software Engineering Conference (ICSE 2024), Ottawa, Canada.<br/>
+PC at the Workshops Track of the 47th IEEE/ACM International Conference on Software Engineering Conference (ICSE 2025), Ottawa, Canada.<br/>
 PC at the NIER Track of the IEEE/ACM Automated Software Engineering (ASE 2024) Conference, Sacramento, California, USA.<br/>
 PC at the Research Track of the IEEE International Conference on Software Testing (ICST 2024), Canada.<br/>
 PC in the Research and NIER Tracks at the IEEE/ACM Automated Software Engineering (ASE 2023) Conference, Luxembourg.<br/>
