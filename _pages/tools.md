@@ -9,7 +9,7 @@ author_profile: true
 
 ## Datasets
 
-[Syn-vs-Sem:](https://mutationtesting-user.github.io/bugs_vs_mutants/) dataset used for studying the syntactic and semantic simloarities between real and artificial faults (TSE 2022).
+[Syn-vs-Sem:](https://mutationtesting-user.github.io/bugs_vs_mutants/) dataset used for studying the syntactic and semantic similarities between real and artificial faults (TSE 2022).
 
 [Commit-relevant mutants:](https://mutationtesting-user.github.io/evolve-mutation.github.io/) dataset employed in our exploratory study (TOSEM 2022).
 
