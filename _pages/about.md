@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Senior R&T Associate at the Luxembourg Institute of Science and Technology (LIST). 
+I’m a R&T Associate at the Luxembourg Institute of Science and Technology (LIST). 
 
 My research interests lie mainly in the areas of software analysis and software engineering, with a focus on the interplay between formal methods, software testing and machine learning.
 
@@ -47,4 +47,4 @@ Since 2019, I am an *Assistant Researcher* (currently on leave) at the Consejo N
 
 In 2019, I joined the Security Design and Validation research group, SERVAL, at SnT University of Luxembourg. From 2019 to 2022 I was a Postdoc and from 2022 to 2024 a *Research Scientist*.
 
-In 2024, I joined as a *Senior R&T Associate* to the Software Engineering RDI Unit research group, leaded by Prof. Jordi Cabot, at the Luxembourg Institute of Science and Technology (LIST). 
+In 2024, I joined as a *R&T Associate* to the Software Engineering RDI Unit research group, leaded by Prof. Jordi Cabot, at the Luxembourg Institute of Science and Technology (LIST). 
