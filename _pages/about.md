@@ -18,6 +18,7 @@ My research interests lie mainly in the areas of software analysis and software 
 Paper at FSE 2024, Porto de Galinhas, Brazil.<br/>
 Paper at ICSE 2024, Lisbon, Portugal.<br/>
 Paper at ICST 2024, Totonto, Canada.<br/>
+Paper at TOSEM 2024.<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
