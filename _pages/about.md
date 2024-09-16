@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a R&T Associate at the Luxembourg Institute of Science and Technology (LIST). 
+I’m a Senior Research Scientist at the Luxembourg Institute of Science and Technology (LIST). 
 
 My research interests lie mainly in the areas of software analysis and software engineering, with a focus on the interplay between formal methods, software testing and machine learning.
 
