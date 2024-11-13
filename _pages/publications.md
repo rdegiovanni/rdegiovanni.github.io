@@ -21,7 +21,7 @@ Agustin Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbe
 
 Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. ["SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions"](files/ICSE2024.pdf), in the 46th International Conference on Software Engineering (ICSE), 2024.
 
-Luciano Zemin, Simon Gutierrez Brida, Ariel Godio, Cesar Cornejo, Renzo Degiovanni, German Regis, Nazareno Aguirre, Marcelo Frias. ["An Empirical Study on the Suitability of Test-based Patch Acceptance Criteria"](), in the ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
+Luciano Zemin, Simon Gutierrez Brida, Ariel Godio, Cesar Cornejo, Renzo Degiovanni, German Regis, Nazareno Aguirre, Marcelo Frias. ["An Empirical Study on the Suitability of Test-based Patch Acceptance Criteria"](https://dl.acm.org/doi/pdf/10.1145/3702971), in the ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
 
 Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset"](files/ICST2024.pdf), in the 17th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2024.
 
