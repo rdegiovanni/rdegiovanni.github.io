@@ -15,6 +15,7 @@ My research interests lie mainly in the areas of software analysis and software 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **==== Recent Publications ====**<br/>
+Paper at NFM 2025, Virginia, USA.<br/>
 Paper at FSE 2024, Porto de Galinhas, Brazil.<br/>
 Paper at ICSE 2024, Lisbon, Portugal.<br/>
 Paper at ICST 2024, Totonto, Canada.<br/>
@@ -24,6 +25,7 @@ Paper at TOSEM 2024.<br/>
 
 **==== Recent Services ====**<br/>
 
+PC at the Research Track of the IEEE/ACM Automated Software Engineering (ASE 2025) Conference, South Korea.<br/>
 PC at the Workshops Track of the 47th IEEE/ACM International Conference on Software Engineering Conference (ICSE 2025), Ottawa, Canada.<br/>
 PC at the NIER Track of the IEEE/ACM Automated Software Engineering (ASE 2024) Conference, Sacramento, California, USA.<br/>
 PC at the Research Track of the IEEE International Conference on Software Testing (ICST 2024), Canada.<br/>
@@ -48,4 +50,4 @@ Since 2019, I am an *Assistant Researcher* (currently on leave) at the Consejo N
 
 In 2019, I joined the Security Design and Validation research group, SERVAL, at SnT University of Luxembourg. From 2019 to 2022 I was a Postdoc and from 2022 to 2024 a *Research Scientist*.
 
-In 2024, I joined as a *R&T Associate* to the Software Engineering RDI Unit research group, leaded by Prof. Jordi Cabot, at the Luxembourg Institute of Science and Technology (LIST). 
+In 2024, I joined as a *Senior Research and Technology Scientist* to the Software Engineering RDI Unit research group, leaded by Prof. Jordi Cabot, at the Luxembourg Institute of Science and Technology (LIST). 

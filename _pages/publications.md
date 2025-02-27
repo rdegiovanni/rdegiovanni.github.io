@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2025
+
+Matías Brizzio, Felipe Gorostiaga, César Sánchez, Renzo Degiovanni. ["Mode-based Reactive Synthesis"](), in the 17th NASA Formal Methods Symposium (NFM) 2025.
+
+
 ## 2024
 
 Agustin Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre and Marcelo Frias. ["Abstraction-Aware Inference of Metamorphic Relations"](files/FSE2024.pdf), in the ACM International Conference on the Foundations of Software Engineering (FSE), 2024.
