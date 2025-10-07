@@ -17,7 +17,10 @@ author_profile: true
 
 ## 2025
 
-Matías Brizzio, Felipe Gorostiaga, César Sánchez, Renzo Degiovanni. ["Mode-based Reactive Synthesis"](), in the 17th NASA Formal Methods Symposium (NFM) 2025.
+Renzo Degiovanni and Jordi Cabot. ["Towards Reliable LLM-based Exam Generation"](files/ASE_Industry_2025.pdf), in the Industry Showcase Track of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
+
+
+Matías Brizzio, Felipe Gorostiaga, César Sánchez, Renzo Degiovanni. ["Mode-based Reactive Synthesis"](files/NFM2025.pdf), in the 17th NASA Formal Methods Symposium (NFM) 2025.
 
 
 ## 2024
