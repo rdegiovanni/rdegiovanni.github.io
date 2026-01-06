@@ -15,6 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2026
+
+Pablo Castro, Luciano Putruele, Renzo Degiovanni, and Nazareno Aguirre. ["Bounded Synthesis of Synchronized Distributed Models from Lightweight Specifications"](https://arxiv.org/abs/2502.13955), in the 14thInternational Conference on Formal Methods in Software Engineering (FormaliSE), 2026
+
+Renzo Degiovanni, Sergio Morales, Miriam Coccia, Robert Clariso, and Jordi Cabot. ["Robust LLM-as-a-Judge Validators for Assessing the Quality of Educational Exams"](files/SAC2026_validators.pdf), in the 41st ACM/SIGAPP Symposium on Applied Computing (SAC), 2026.
+
+
+Aayush Garg, Zanis Ali Khan, Renzo Degiovanni, and Qiang Tang. ["Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities"](https://arxiv.org/pdf/2511.23408), in the 41st ACM/SIGAPP Symposium on Applied Computing (SAC), 2026.
+
 ## 2025
 
 Renzo Degiovanni and Jordi Cabot. ["Towards Reliable LLM-based Exam Generation"](files/ASE_Industry_2025.pdf), in the Industry Showcase Track of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
