@@ -15,7 +15,7 @@ My research interests lie mainly in the areas of software analysis and software 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **==== Recent Publications ====**<br/>
-Two papers at ICST 2026, Daejeon, Republic of Korea.
+Two papers at ICST 2026, Daejeon, Republic of Korea.<br/>
 Two papers at SAC 2026, Thessaloniki, Greece.<br/>
 Paper at the Industry Track of ASE 2025, Seoul, South Korea.<br/>
 
