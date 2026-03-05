@@ -24,15 +24,9 @@ Paper at the Industry Track of ASE 2025, Seoul, South Korea.<br/>
 
 **==== Recent Services ====**<br/>
 
+PC at the Research Track of the IEEE/ACM Automated Software Engineering (ASE 2026) Conference, Munich, Germany.<br/>
 PC at the Research Track of the IEEE/ACM Automated Software Engineering (ASE 2025) Conference, South Korea.<br/>
-PC at the Workshops Track of the 47th IEEE/ACM International Conference on Software Engineering Conference (ICSE 2025), Ottawa, Canada.<br/>
-PC at the NIER Track of the IEEE/ACM Automated Software Engineering (ASE 2024) Conference, Sacramento, California, USA.<br/>
-PC at the Research Track of the IEEE International Conference on Software Testing (ICST 2024), Canada.<br/>
-PC in the Research and NIER Tracks at the IEEE/ACM Automated Software Engineering (ASE 2023) Conference, Luxembourg.<br/>
-
-<br/>
-Co-Chair of the 19th Wokshop of Mutation Analysis (["Mutation"](https://conf.researchr.org/home/icst-2024/mutation-2024)), May 28th 2024, Toronto, Canada.<br/>
-Workshops Co-chair of the European joint conferences on Theory and Practice of Software (ETAPS 2024), Luxembourg City, Luxembourg<br/>
+PC at the Workshops Track of the 47th IEEE/ACM International Conference on Software Engineering Conference (ICSE 2025), 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
