@@ -17,6 +17,11 @@ author_profile: true
 
 ## 2026
 
+Michael Konstantinou, Renzo Degiovanni, and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](https://arxiv.org/abs/2601.09695), in the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2026.
+
+Agustín Balestra, Agustin Nolasco, Facundo Molina, Diego Garbervetsky, Renzo Degiovanni, and Nazareno Aguirre. ["Improving Dynamic Specification Inference with LLM-Generated Counterexamples"](), in the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2026.
+
+
 Pablo Castro, Luciano Putruele, Renzo Degiovanni, and Nazareno Aguirre. ["Bounded Synthesis of Synchronized Distributed Models from Lightweight Specifications"](https://arxiv.org/abs/2502.13955), in the 14th International Conference on Formal Methods in Software Engineering (FormaliSE), 2026
 
 Renzo Degiovanni, Sergio Morales, Miriam Coccia, Robert Clariso, and Jordi Cabot. ["Robust LLM-as-a-Judge Validators for Assessing the Quality of Educational Exams"](files/SAC2026_validators.pdf), in the 41st ACM/SIGAPP Symposium on Applied Computing (SAC), 2026.
