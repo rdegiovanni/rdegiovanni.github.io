@@ -19,8 +19,9 @@ author_profile: true
 
 Michael Konstantinou, Renzo Degiovanni, and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](https://arxiv.org/abs/2601.09695), in the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2026.
 
-Agustín Balestra, Agustin Nolasco, Facundo Molina, Diego Garbervetsky, Renzo Degiovanni, and Nazareno Aguirre. ["Improving Dynamic Specification Inference with LLM-Generated Counterexamples"](), in the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2026.
+Agustín Balestra, Agustin Nolasco, Facundo Molina, Diego Garbervetsky, Renzo Degiovanni, and Nazareno Aguirre. ["Improving Dynamic Specification Inference with LLM-Generated Counterexamples"](https://arxiv.org/abs/2604.10761), in the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2026.
 
+Matías Brizzio, Andoni Rodriguez, César Sánchez, Renzo Degiovanni. ["AIGLE: A Tool for Compact, Legible AIGER Circuits from Safety Specifications"](), in the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR), 2026.
 
 Pablo Castro, Luciano Putruele, Renzo Degiovanni, and Nazareno Aguirre. ["Bounded Synthesis of Synchronized Distributed Models from Lightweight Specifications"](https://arxiv.org/abs/2502.13955), in the 14th International Conference on Formal Methods in Software Engineering (FormaliSE), 2026
 
@@ -36,7 +37,7 @@ Aayush Garg, Zanis Ali Khan, Renzo Degiovanni, and Qiang Tang. ["Evaluating LLMs
 Renzo Degiovanni and Jordi Cabot. ["Towards Reliable LLM-based Exam Generation"](files/ASE_Industry_2025.pdf), in the Industry Showcase Track of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
 
 
-Matías Brizzio, Felipe Gorostiaga, César Sánchez, Renzo Degiovanni. ["Mode-based Reactive Synthesis"](files/NFM2025.pdf), in the 17th NASA Formal Methods Symposium (NFM) 2025.
+Matías Brizzio, Felipe Gorostiaga, César Sánchez, Renzo Degiovanni. ["Mode-based Reactive Synthesis"](files/NFM2025.pdf), in the 17th NASA Formal Methods Symposium (NFM), 2025.
 
 
 ## 2024

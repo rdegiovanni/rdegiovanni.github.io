@@ -17,16 +17,16 @@ My research interests lie mainly in the areas of software analysis and software 
 **==== Recent Publications ====**<br/>
 Two papers at ICST 2026, Daejeon, Republic of Korea.<br/>
 Two papers at SAC 2026, Thessaloniki, Greece.<br/>
-Paper at the Industry Track of ASE 2025, Seoul, South Korea.<br/>
+Paper at KR 2026, Lisbon, Portugal.<br/>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **==== Recent Services ====**<br/>
 
-PC at the Research Track of the IEEE/ACM Automated Software Engineering (ASE 2026) Conference, Munich, Germany.<br/>
-PC at the Research Track of the IEEE/ACM Automated Software Engineering (ASE 2025) Conference, South Korea.<br/>
-PC at the Workshops Track of the 47th IEEE/ACM International Conference on Software Engineering Conference (ICSE 2025), 
+PC at the Research Track of the ACM International Conference on the Foundations of Software Engineering (FSE 2027).<br/>
+PC at the NIER Track of the IEEE/ACM International Conference on Software Engineering (ICSE 2027).<br/>
+PC at the Research Track of the IEEE/ACM Automated Software Engineering (ASE 2026) Conference.<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
