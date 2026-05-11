@@ -21,6 +21,8 @@ Michael Konstantinou, Renzo Degiovanni, and Mike Papadakis. ["How well LLM-based
 
 Agustín Balestra, Agustin Nolasco, Facundo Molina, Diego Garbervetsky, Renzo Degiovanni, and Nazareno Aguirre. ["Improving Dynamic Specification Inference with LLM-Generated Counterexamples"](https://arxiv.org/abs/2604.10761), in the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2026.
 
+Matías Brizzio, Andoni Rodriguez, César Sánchez, Renzo Degiovanni. ["Mode-Based Requirements Decomposition for Scalable Reactive Synthesis"](), in the 34th IEEE International Requirements Engineering Conference (RE), 2026.
+
 Matías Brizzio, Andoni Rodriguez, César Sánchez, Renzo Degiovanni. ["AIGLE: A Tool for Compact, Legible AIGER Circuits from Safety Specifications"](), in the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR), 2026.
 
 Pablo Castro, Luciano Putruele, Renzo Degiovanni, and Nazareno Aguirre. ["Bounded Synthesis of Synchronized Distributed Models from Lightweight Specifications"](https://arxiv.org/abs/2502.13955), in the 14th International Conference on Formal Methods in Software Engineering (FormaliSE), 2026
